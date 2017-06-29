@@ -11,15 +11,15 @@
 	margin-bottom: 1em;
 }
 
-.dateline{
+[epub|type~="se:letter.dateline"]{
 	text-align: right;
 }
 
-.dateline > .location{
+[epub|type~="se:letter.dateline"] > .location{
 	font-variant: small-caps;
 }
 
-.dateline > time {
+[epub|type~="se:letter.dateline"] > time {
 	font-style: italic;
 }
 
