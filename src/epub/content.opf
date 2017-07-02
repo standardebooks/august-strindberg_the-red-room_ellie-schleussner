@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/august-strindberg/the-red-room</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/august-strindberg/the-red-room/ellie-schleussner</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<meta property="se:revision-number">0</meta>
@@ -26,7 +26,7 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;August Strindberg’s novel The Red Room centres on the civil servant Arvid Falk as he tries to find meaning in his life through the pursuit of writing. He’s accompanied by a crew of painters, sculptors and philosophers each on their own journey for the truth, who meet in the Red Room of a local restaurant.&lt;/p&gt;
-			&lt;p&gt;Drawing heavily on August’s own experiences, The Red Room was published in Sweden in 1879. Its reception was less than complimentary in Sweden—a major newspaper called it ‘dirt’—but it fared better in the rest of Scandinavia and soon was recognised in his home country. Since then it has been translated into multiple languages, including the 1913 English translation by Ellise Schleussner presented here.&lt;/p&gt;
+			&lt;p&gt;Drawing heavily on August’s own experiences, The Red Room was published in Sweden in 1879. Its reception was less than complimentary in Sweden—a major newspaper called it “dirt”—but it fared better in the rest of Scandinavia and soon was recognised in his home country. Since then it has been translated into multiple languages, including the 1913 English translation by Ellise Schleussner presented here.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -34,22 +34,22 @@
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Red_Room_(Strindberg_novel)</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/august-strindberg_the-red-room</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/august-strindberg_the-red-room_ellie-schleussner</meta>
 		<dc:creator id="author">August Strindberg</dc:creator>
 		<meta property="file-as" refines="#author">Strindberg, August</meta>
 		<meta property="se:name.person.full-name" refines="#author">Johan August Strindberg</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/August_Strindberg</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79005597.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79005597</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Ellie Schleussner</dc:contributor>
 		<meta property="file-as" refines="#translator">Schleussner, Ellie</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no94024667.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no94024667</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Richard Bergh</dc:contributor>
 		<meta property="file-as" refines="#artist">Bergh, Richard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Richard_Bergh</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n00005725.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n00005725</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Charlene Taylor</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Taylor, Charlene</meta>
