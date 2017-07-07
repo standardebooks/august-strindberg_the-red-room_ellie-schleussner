@@ -10,6 +10,10 @@ span[epub|type~="subtitle"]{
 	margin: 1em 0;
 }
 
+[epub|type~="z3998:letter"] > p:first-child, [epub|type~="z3998:letter"] > header + p{
+	text-indent: 0;
+}
+
 [epub|type~="z3998:letter"] header{
 	text-indent: 0;
 	text-align: center;
