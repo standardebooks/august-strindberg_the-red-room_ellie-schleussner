@@ -10,10 +10,13 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-[epub|type~="z3998:letter"]{
-	margin: 1.5em 0;
+#chapter-26 [epub|type~="z3998:letter"]{
+	/* special case for chapter whose contents are all letters */
+	margin-left: 0;
+	margin-right: 0;
 }
 
+[epub|type~="z3998:salutation"] + p,
 [epub|type~="z3998:letter"] > p:first-child,
 [epub|type~="z3998:letter"] > header + p{
 	text-indent: 0;
@@ -53,4 +56,16 @@ span[epub|type~="subtitle"]{
 
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
+}
+
+[epub|type~="z3998:postscript"]{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:letter"] footer{
+	margin-top: 1em;
+}
+
+#chapter-4 [epub|type~="z3998:letter"] p:first-child + p{
+	text-indent: 0; /* special case because the salutation in this letter is in a <span> */
 }
