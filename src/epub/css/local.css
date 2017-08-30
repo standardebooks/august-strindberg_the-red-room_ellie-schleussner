@@ -1,6 +1,10 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+i em{
+	font-style: normal;
+}
+
 abbr.name{
 	white-space: nowrap;
 }
