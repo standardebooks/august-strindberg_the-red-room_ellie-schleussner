@@ -14,6 +14,11 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+#chapter-18 [epub|type~="z3998:letter"] p:first-child + p{
+	/* this is a really hard-to-target element so we just use an ID selector */
+	text-indent: 0;
+}
+
 #chapter-26 [epub|type~="z3998:letter"]{
 	/* special case for chapter whose contents are all letters */
 	margin-left: 0;
