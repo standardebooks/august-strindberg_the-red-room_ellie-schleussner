@@ -30,7 +30,6 @@ span[epub|type~="subtitle"]{
 }
 
 [epub|type~="z3998:salutation"] + p,
-[epub|type~="z3998:letter"] > p:first-child,
 [epub|type~="z3998:letter"] > header + p{
 	text-indent: 0;
 }
