@@ -5,14 +5,6 @@ i em{
 	font-style: normal;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
-abbr.compass{
-	white-space: nowrap;
-}
-
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
@@ -36,7 +28,6 @@ span[epub|type~="subtitle"]{
 
 [epub|type~="z3998:letter"] header{
 	text-indent: 0;
-	text-align: center;
 }
 
 [epub|type~="se:letter.dateline"]{
