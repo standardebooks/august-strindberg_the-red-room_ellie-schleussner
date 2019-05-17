@@ -26,19 +26,18 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Red Room</dc:title>
 		<meta property="file-as" refines="#title">Red Room, The</meta>
 		<dc:subject id="subject-1">Stockholm (Sweden) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/37039</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A civil servant tired of bureaucracy quits his job to become a writer, and falls in with a group of artists and philosophers.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;August Strindberg’s novel &lt;i&gt;The Red Room&lt;/i&gt; centers on the civil servant Arvid Falk as he tries to find meaning in his life through the pursuit of writing. He’s accompanied by a crew of painters, sculptors and philosophers each on their own journey for the truth, who meet in the “Red Room” of a local restaurant.&lt;/p&gt;
 			&lt;p&gt;Drawing heavily on August’s own experiences, The Red Room was published in Sweden in 1879. Its reception was less than complimentary in Sweden—a major newspaper called it “dirt”—but it fared better in the rest of Scandinavia and soon was recognised in his home country. Since then it has been translated into multiple languages, including the 1913 English translation by Ellise Schleussner presented here.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37039</dc:source>
 		<dc:source>https://archive.org/details/redroomauthorize00striuoft</dc:source>
