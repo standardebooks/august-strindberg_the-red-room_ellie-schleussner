@@ -59,9 +59,6 @@ span[epub|type~="subtitle"]{
 
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
-}
-
-[epub|type~="z3998:postscript"]{
 	text-indent: 0;
 }
 
