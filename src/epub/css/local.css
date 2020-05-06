@@ -5,6 +5,10 @@ i em{
 	font-style: normal;
 }
 
+[epub|type~="z3998:letter"] header p + p{
+	text-indent: 0;
+}
+
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
