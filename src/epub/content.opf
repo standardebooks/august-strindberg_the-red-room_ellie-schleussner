@@ -36,7 +36,7 @@
 		<dc:description id="description">A civil servant tired of bureaucracy quits his job to become a writer, and falls in with a group of artists and philosophers.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/august-strindberg"&gt;August Strindberg’s&lt;/a&gt; novel &lt;i&gt;The Red Room&lt;/i&gt; centers on the civil servant Arvid Falk as he tries to find meaning in his life through the pursuit of writing. He’s accompanied by a crew of painters, sculptors and philosophers each on their own journey for the truth, who meet in the “Red Room” of a local restaurant.&lt;/p&gt;
-			&lt;p&gt;Drawing heavily on August’s own experiences, The Red Room was published in Sweden in 1879. Its reception was less than complimentary in Sweden—a major newspaper called it “dirt”—but it fared better in the rest of Scandinavia and soon was recognised in his home country. Since then it has been translated into multiple languages, including the 1913 English translation by Ellise Schleussner presented here.&lt;/p&gt;
+			&lt;p&gt;Drawing heavily on August’s own experiences, &lt;i&gt;The Red Room&lt;/i&gt; was published in Sweden in 1879. Its reception was less than complimentary in Sweden—a major newspaper called it “dirt”—but it fared better in the rest of Scandinavia and soon was recognised in his home country. Since then it has been translated into multiple languages, including the 1913 English translation by Ellise Schleussner presented here.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37039</dc:source>
