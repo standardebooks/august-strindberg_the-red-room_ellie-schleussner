@@ -58,11 +58,17 @@ i em{
 
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
+	text-align: left;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:letter"] footer{
+[epub|type~="z3998:postscript"] + [epub|type~="z3998:sender"]{
 	margin-top: 1em;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
 }
 
 #chapter-4 [epub|type~="z3998:letter"] p:first-child + p{
