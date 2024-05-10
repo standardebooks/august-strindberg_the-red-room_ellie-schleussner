@@ -41,7 +41,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/37039</dc:source>
 		<dc:source>https://archive.org/details/redroomauthorize00striuoft</dc:source>
 		<meta property="se:word-count">101056</meta>
-		<meta property="se:reading-ease.flesch">72.26</meta>
+		<meta property="se:reading-ease.flesch">72.36</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Red_Room_(Strindberg_novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/august-strindberg_the-red-room_ellie-schleussner</meta>
 		<dc:creator id="author">August Strindberg</dc:creator>
