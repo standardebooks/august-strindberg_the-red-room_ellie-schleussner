@@ -6,4 +6,10 @@
 			<reason>Title is correctly titlecased.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-26.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Text has typos on purpose.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
