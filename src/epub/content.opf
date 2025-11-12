@@ -54,8 +54,8 @@
 		<dc:contributor id="translator">Ellie Schleussner</dc:contributor>
 		<meta property="file-as" refines="#translator">Schleussner, Ellie</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no94024667</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Richard Bergh</dc:contributor>
 		<meta property="file-as" refines="#artist">Bergh, Richard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Richard_Bergh</meta>
