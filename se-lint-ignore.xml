@@ -2,11 +2,15 @@
 <se-lint-ignore>
 	<file path="chapter-5.xhtml">
 		<ignore code="t-064">
+			<line>15</line>
 			<reason>Title is correctly titlecased.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-26.xhtml">
 		<ignore code="y-035">
+			<line>66</line>
+			<line>69</line>
+			<line>71</line>
 			<reason>Text has typos on purpose.</reason>
 		</ignore>
 	</file>
